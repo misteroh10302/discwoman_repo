@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACC,kBAAK;EACJ,gBAAgB,EAAC,gBAAgB",
+"sources": ["mobile.scss"],
+"names": [],
+"file": "mobile.css"
+}
